@@ -1,6 +1,12 @@
 This organization hosts UX components that complement the [EISOP Checker Framework](https://github.com/eisop/checker-framework).
 The main EISOP organization can be found [here](https://github.com/eisop).
 
+See the [EISOPUX homepage](https://eisopux.github.io/) for a longer description of each project
+below.
+
+<!-- Keep this list in sync with the project list in
+     https://github.com/eisopux/eisopux.github.io/blob/main/index.md -->
+
 # IDE Integrations
 
 - [Checker Framework Language Server](https://github.com/eisopux/checker-framework-languageserver)
